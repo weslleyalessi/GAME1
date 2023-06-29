@@ -38,8 +38,16 @@ span{
 
 }
 
-.list_item{
+.list{
+    background-color:rgb(92, 11, 11);
+    text-align:center; 
+    display: inline-block;
+}
 
+.list-item{
+    text-align:center; 
+    display: inline-block;
+}
 }
 
 
